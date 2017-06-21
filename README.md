@@ -1,9 +1,9 @@
 # ika_anime_editor_V2
 Ika动画编辑器V2（app动画动作制作工具）<br/>
-
-if you only use this tool，you can simply download doc folder to use.
-如果只是实用工具，可以直接下载doc文件夹使用打包好的工具即可。
-
+<br/>
+if you only use this tool，you can simply download doc folder to use.<br/>
+如果只是实用工具，可以直接下载doc文件夹使用打包好的工具即可。<br/>
+<br/>
 
 Ika动画编辑器V2是在IKA动画编辑器V1功能的基础上增加了许多功能而形成的新版本<br/>
 80%的代码重新编写,代码结构也和原来的结构完全不同.无论是速度,稳定性还是扩展性上,都是很大的进步.(毕竟V1版本是08年前开发的,针对N年前的kjava和简单桌面java游戏使用)V2版本最大的特性是支持缩放和旋转,并且全面支持android和iphone手机动画的使用.支持50000x50000以上的图的处理和解析
